@@ -8,6 +8,6 @@ Hey 👋
 
 
 <a target="_blank" href="https://www.linkedin.com/in/abdul-sahib-05159521b/">
- <img src="55296501_linkedin_network_linkedin logo_icon.png">
+ <img src="5296501_linkedin_network_linkedin logo_icon.png">
 </a>
 
