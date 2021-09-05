@@ -16,7 +16,7 @@ Hey 👋
 
 
 
-<link rel="icon" type="image/png" href="/favicon.png"/>
+<link rel="icon" type="image/png" href="https://www.linkedin.com/in/abdul-sahib-05159521b/"/>
 
 
 
