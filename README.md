@@ -7,14 +7,10 @@ Hey 👋
 - 📫 How to reach me: abdulmikaeel55@gmail.com
 
 
-
-
-
-
-
-
-
 <a target="_blank" href="https://www.linkedin.com/in/abdul-sahib-05159521b/">
- <img src="523681.png">
+ <img src="55296501_linkedin_network_linkedin logo_icon.png">
+</a>
+<a target="_blank" href="https://web.whatsapp.com/">
+ <img src="5296520_bubble_chat_mobile_whatsapp_whatsapp logo_icon.png">
 </a>
 
