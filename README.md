@@ -5,6 +5,4 @@ Hey 👋
 - 💼 Any freelance work? email :)
 - 💬 Ask for any help
 - 📫 How to reach me: abdulmikaeel55@gmail.com
-
-
-
+- 
