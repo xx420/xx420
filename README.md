@@ -14,10 +14,10 @@ Hey 👋
 
 
 
-
-
-<link rel="icon" type="image/png" href="https://www.linkedin.com/in/abdul-sahib-05159521b/"/>
-
+  <a href="https://www.linkedin.com/in/abdul-sahib-05159521b/" class="social-icon si-rounded si-small si-linkedin">
+    <i class="icon-linkedin"></i>
+    <i class="icon-linkedin"></i>
+ </a>
 
 
 
