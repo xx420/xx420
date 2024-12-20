@@ -6,7 +6,7 @@ Hey 👋
 - 📫 How to reach me: abdulsahib.nizer@edu.savonia.fi
 
 
-<a target="_blank" href="https://www.linkedin.com/in/abdul-sahib-05159521b/">
+<a target="_blank" href="https://www.linkedin.com/in/abdulnizer/">
  <img src="5296501_linkedin_network_linkedin logo_icon.png">
 </a>
 
