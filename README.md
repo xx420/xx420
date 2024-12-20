@@ -1,9 +1,9 @@
 Hey 👋
 
-- 🔭 I’m currently working on Full Stack Development
-- 👯 Learning R Studio and R Language
+- 🔭 I’m currently working on IoT Development.
+- 👯 Learning Python
 - 💬 Ask for any help!
-- 📫 How to reach me: abdulmikaeel55@gmail.com
+- 📫 How to reach me: abdulsahib.nizer@edu.savonia.fi
 
 
 <a target="_blank" href="https://www.linkedin.com/in/abdul-sahib-05159521b/">
