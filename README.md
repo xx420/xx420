@@ -29,7 +29,7 @@ Hello! 👋 I'm Abdul Nizer, a third-year Bachelor's student in Information Tech
 
 <br>
 Thank you for visiting my GitHub! Feel free to explore my repositories and connect for collaboration or learning opportunities.
-<br>
+<br><br>
 
 <p align="middle">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
