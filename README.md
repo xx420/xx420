@@ -22,15 +22,14 @@ Hello! 👋 I'm Abdul Nizer, a third-year Bachelor's student in Information Tech
   <a href="https://www.linkedin.com/in/abdulnizer/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://github.com/xx420" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  <a href="https://abdulnizer.framer.website/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank">
   </a>
 </div>
 
-
-
+<br>
 Thank you for visiting my GitHub! Feel free to explore my repositories and connect for collaboration or learning opportunities.
-
+<br>
 
 <p align="middle">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
