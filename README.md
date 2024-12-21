@@ -29,7 +29,6 @@ Hello! 👋 I'm Abdul Nizer, a third-year Bachelor's student in Information Tech
   </a>
 </p>
 
-<br>
 Thank you for visiting my GitHub! Feel free to explore my repositories and connect for collaboration or learning opportunities.
 <br><br>
 
