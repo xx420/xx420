@@ -22,9 +22,9 @@ Hello! 👋 I'm Abdul Nizer, a third-year Bachelor's student in Information Tech
 <a target="_blank" href="https://www.linkedin.com/in/abdulnizer/">
  <img src="5296501_linkedin_network_linkedin logo_icon.png" alt="LinkedIn Profile">
 </a>
-
+<br>
 <a target="_blank" href="https://abdulnizer.framer.website/">
- <img src="5296501_linkedin_network_linkedin logo_icon.png" alt="Portfolio">
+ <img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" alt="Portfolio">
 </a>
 
 Thank you for visiting my GitHub! Feel free to explore my repositories and connect for collaboration or learning opportunities.
