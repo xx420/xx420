@@ -20,6 +20,7 @@ Hello! 👋 I'm Abdul Nizer, a third-year Bachelor's student in Information Tech
 - ✉️ Email: abdulsahib.nizer@edu.savonia.fi
 
 <p>Click below to explore my LinkedIn profile:</p>
+<br>
 <a target="_blank" href="https://www.linkedin.com/in/abdulnizer/">
  <img src="5296501_linkedin_network_linkedin logo_icon.png" alt="LinkedIn Profile" style="margin-right: 15px;">
 </a>
