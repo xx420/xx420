@@ -17,15 +17,17 @@ Hello! 👋 I'm Abdul Nizer, a third-year Bachelor's student in Information Tech
 - 🏆 World Prize for Cambridge Examination – Computer Science
 
 ## Let's Connect!
-- ✉️ Email: abdulsahib.nizer@edu.savonia.fi  
+- ✉️ Email: abdulsahib.nizer@edu.savonia.fi
+<br>
 <div>
+<p align="left" style="width: 33; display: inline-block;">
   <a href="https://www.linkedin.com/in/abdulnizer/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://abdulnizer.framer.website/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank">
   </a>
-</div>
+</p>
 
 <br>
 Thank you for visiting my GitHub! Feel free to explore my repositories and connect for collaboration or learning opportunities.
