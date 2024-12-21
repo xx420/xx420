@@ -18,16 +18,7 @@ Hello! 👋 I'm Abdul Nizer, a third-year Bachelor's student in Information Tech
 
 ## Let's Connect!
 - ✉️ Email: abdulsahib.nizer@edu.savonia.fi
-
-<p>Click below to explore my LinkedIn profile:</p>
-<br>
-<a target="_blank" href="https://www.linkedin.com/in/abdulnizer/">
- <img src="5296501_linkedin_network_linkedin logo_icon.png" alt="LinkedIn Profile" style="margin-right: 15px;">
-</a>
-<br><br>
-<p>Click below to check out my portfolio:</p>
-<a target="_blank" href="https://abdulnizer.framer.website/">
- <img src="https://www.iconfinder.com/icons/2335593/download/png/48" alt="Portfolio" style="margin-right: 15px;">
-</a>
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/abdulnizer/)
+- 🌐 Portfolio: [Portfolio](https://abdulnizer.framer.website/)
 
 Thank you for visiting my GitHub! Feel free to explore my repositories and connect for collaboration or learning opportunities.
