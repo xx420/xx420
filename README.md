@@ -14,7 +14,7 @@ Hello! 👋 I'm Abdul Nizer, a third-year Bachelor's student in Information Tech
 - **Tools & Platforms:** Git, Docker, Firebase
 
 ## Awards & Achievements
-- 🏆 World Prize for Cambridge Examination – Computer Science
+- 🏆 World Prize for Cambridge Examination O-Levels – Computer Science
 
 ## Let's Connect!
 - ✉️ Email: abdulsahib.nizer@edu.savonia.fi
